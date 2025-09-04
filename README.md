@@ -40,9 +40,9 @@ MoodBeats is an AI-powered music recommendation system that detects a user’s m
 
 💡 Purpose  
 
-Why MoodBeats when people can just choose songs manually?  
-👉 Because it saves time, reduces decision fatigue, and adds an AI-driven personalization layer. It’s not just about music—it’s about making technology feel you.  
+ Why MoodBeats when people can just choose songs manually?  
+ 👉 Because it saves time, reduces decision fatigue, and adds an AI-driven personalization layer. It’s not just about music—it’s about making technology feel you.  
 
 🏆 Showcase 
 
-🎉 Built as part of SJCET Asthra Tech Fest 10.0 – 2025  
+ 🎉 Built as part of SJCET Asthra Tech Fest 10.0 – 2025  
