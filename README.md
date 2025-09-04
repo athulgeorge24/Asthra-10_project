@@ -32,18 +32,15 @@ MoodBeats is an AI-powered music recommendation system that detects a user’s m
 6. Meet the Team – 5-member team showcase
 
 🛠️ Tech Stack
-Frontend: React + TypeScript
-Styling: TailwindCSS, shadcn/ui, Glassmorphism/Neumorphism
-Animations: Framer Motion, CSS Visualizer effects
-Icons: Lucide-react
-Hosting: Vercel / Netlify
+1. Frontend: React + TypeScript
+2. Styling: TailwindCSS, shadcn/ui, Glassmorphism/Neumorphism
+3. Animations: Framer Motion, CSS Visualizer effects
+4. Icons: Lucide-react
+5. Hosting: Vercel / Netlify
 
-💡 Purpose
-Why MoodBeats when people can just choose songs manually?
-👉 Because it saves time, reduces decision fatigue, and adds an AI-driven personalization layer. It’s not just about music—it’s about making technology feel you.
+💡 Purpose  
+Why MoodBeats when people can just choose songs manually?  
+👉 Because it saves time, reduces decision fatigue, and adds an AI-driven personalization layer. It’s not just about music—it’s about making technology feel you.  
 
-🏆 Showcase
-🎉 Built as part of SJCET Asthra Tech Fest 10.0 – 2025
-Why It Matters – AI DJ vs. Manual Selection.
-
-Meet the Team – 5-member team showcase.
+🏆 Showcase  
+🎉 Built as part of SJCET Asthra Tech Fest 10.0 – 2025  
