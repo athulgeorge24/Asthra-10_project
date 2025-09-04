@@ -17,11 +17,11 @@ MoodBeats is an AI-powered music recommendation system that detects a user’s m
 7. Call-to-Action Footer: “🎧 Experience MoodBeats at SJCET Asthra Tech Fest 10.0 – 2025”
 
 🌟 Features
-🎭 Mood Detection UI – Users describe their mood in words (e.g., “excited for the weekend”, “a bit stressed”), and the system intelligently maps it to the most fitting playlist.
-🎨 Dynamic UI/UX – Gradient backgrounds, smooth animations, and an interactive demo.
-🎬 Demo Showcase – Embedded video of the Java application in action.
-🔗 Spotify Integration – Curated playlists fetched directly.
-👥 Team Page – Meet the creators behind MoodBeats.
+1. 🎭 Mood Detection UI – Users describe their mood in words (e.g., “excited for the weekend”, “a bit stressed”), and the system intelligently maps it to the most fitting playlist.
+2. 🎨 Dynamic UI/UX – Gradient backgrounds, smooth animations, and an interactive demo.
+3. 🎬 Demo Showcase – Embedded video of the Java application in action.
+4. 🔗 Spotify Integration – Curated playlists fetched directly.
+5. 👥 Team Page – Meet the creators behind MoodBeats.
 
 🖼️ Website Sections
 1. Landing Page – Vibrant gradient hero section with catchy tagline.
