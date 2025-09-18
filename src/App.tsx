@@ -8,6 +8,10 @@ import SpotifySection from './components/SpotifySection';
 import TeamSection from './components/TeamSection';
 import Footer from './components/Footer';
 import MusicVisualizer from './components/MusicVisualizer';
+import ThemeToggle from './components/ThemeToggle';
+import BackgroundMusic from "./components/BackgroundMusic";
+import GlobalFloatingBackground from './components/GlobalFloatingBackground';
+
 
 function App() {
   const [selectedMood, setSelectedMood] = useState('excited');
@@ -18,9 +22,26 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 overflow-x-hidden">
+    <div className="
+      min-h-screen 
+      overflow-x-hidden 
+      flex flex-col items-center justify-center
+      bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 
+      dark:bg-gradient-to-br dark:from-gray-900 dark:via-black dark:to-gray-800
+      text-white dark:text-gray-100
+    ">
+       {/* 🎵 Background Music */}
+      <BackgroundMusic />
+      {/* ✅ FLOATING MAGIC — ADD THIS LINE */}
+      <GlobalFloatingBackground />
+      {/* Theme Toggle Button */}
+      <div className="absolute top-4 right-4">
+        <ThemeToggle />
+      </div>
+
+      {/* Music Visualizer */}
       <MusicVisualizer />
-      
+
       <AnimatePresence>
         {isLoaded && (
           <motion.div
@@ -44,5 +65,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
